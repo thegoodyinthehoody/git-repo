@@ -1,3 +1,3 @@
 # git-repo
 
-Some description
+Just a better description for my repo to help learn git stuff
